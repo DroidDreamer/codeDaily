@@ -56,7 +56,7 @@ platform :ios do
   	#	output_directory: "./build",
       clean: true
       )
-      firim(firim_api_token: "b6df21e1b6dddf5e9b1fce74ddc2cd96")
+      firim(firim_api_token: "此处填写fir的token")
 
   end
 
